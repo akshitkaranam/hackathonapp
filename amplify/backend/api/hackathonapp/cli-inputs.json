@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "hackathonapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/akshit/Desktop/hackathon-app/amplify/backend/api/hackathonapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
